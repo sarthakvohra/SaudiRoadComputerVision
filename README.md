@@ -5,14 +5,24 @@ Since visual pollution is a relatively recent issue compared to other forms of e
 Visual pollution types:
 
 ● GRAFFITI
+
 ● FADED SIGNAGE
+
 ● POTHOLES
+
 ● GARBAGE
+
 ● CONSTRUCTION ROAD
+
 ● BROKEN_SIGNAGE
+
 ● BAD STREETLIGHT
+
 ● BAD BILLBOARD
+
 ● SAND ON ROAD
+
 ● CLUTTER_SIDEWALK
+
 ● UNKEPT_FACADE
 
